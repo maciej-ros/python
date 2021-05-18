@@ -1,2 +1,2 @@
 # python
-Python projects
+completed projects for studies
